@@ -1,9 +1,15 @@
 #FILE-HANDLING-UTILITY
+
 Company: Codtech IT Solutions Pvt. Ltd.
+
 Name: Mansi Pokhriyal
+
 Intern ID: CT08DA549
+
 Domain: Java Programming
+
 Duration: 8 Weeks
+
 Mentor: Neela Santosh
 
 #Project Summary
@@ -55,3 +61,5 @@ Exit
 Gracefully exits the program.
 
 #Program Output
+
+![Image](https://github.com/user-attachments/assets/be613d74-9105-4938-ac57-8c497aaf5380)
